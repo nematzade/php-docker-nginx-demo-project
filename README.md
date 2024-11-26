@@ -1,5 +1,3 @@
-# php-docker-nginx-demo-project
-
 # PHP Docker Project
 
 This project is a basic PHP application with Docker support. It contains a simple PHP code base along with Docker configurations for easy development and deployment.
